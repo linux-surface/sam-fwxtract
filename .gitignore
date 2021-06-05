@@ -1,0 +1,6 @@
+*.bin
+*.fwimg
+*.img
+
+__pycache__/
+*.py[cod]
