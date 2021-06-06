@@ -14,3 +14,9 @@ Firmware extraction and unpacking scripts for Surface System Aggregator Module (
    ./uefi-unwrap.py SurfaceSAM_1.108.139.0.fwimg SurfaceSAM_1.108.139.img
    ```
 3. Open image with ghidra, have fun...
+
+
+## Note
+
+Currently only works with firmware for newer devices, e.g. Surface Laptop 3 and Surface Pro X.
+Older models, e.g. the Surface Book 2, are currently unsupported.
